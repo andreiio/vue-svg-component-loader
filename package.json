@@ -1,0 +1,22 @@
+{
+    "name": "vue-svg-component-loader",
+    "version": "0.0.0",
+    "description": "zero-dependency webpack loader that turns SVG files into Vue components",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/andreiio/vue-svg-component-loader.git"
+    },
+    "keywords": [
+        "webpack",
+        "svg",
+        "vue",
+        "loader"
+    ],
+    "author": "Andrei Ioniță",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/andreiio/vue-svg-component-loader/issues"
+    },
+    "homepage": "https://github.com/andreiio/vue-svg-component-loader#readme"
+}
