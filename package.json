@@ -1,6 +1,6 @@
 {
     "name": "vue-svg-component-loader",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "zero-dependency webpack loader that turns SVG files into Vue components",
     "main": "index.js",
     "repository": {
